@@ -1,6 +1,6 @@
 module HAR
 
-readHAR = function()
+read = function()
     return("YES")
 end
 
